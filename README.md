@@ -206,7 +206,7 @@ plt.ylabel("Actual")
 plt.title("Confusion Matrix - Random Forest")
 
 plt.show()
-
+ 
 ## CONCLUSION
 Thus, machine learning classification models were successfully applied for heart disease prediction, and their performance was compared using standard classification evaluation metrics.
 
