@@ -1,7 +1,7 @@
 # Ex.No.4b--MACHINE-LEARNING-MODEL-HEART-DISEASE-PREDICTION
 ## AIM
 To develop a Heart Disease Prediction model using machine learning classification algorithms and compare the performance of different models using suitable evaluation metrics.
-##  OBJECTIVES
+##  OBJECTIVES 
 •	To understand machine learning classification. 
 •	To analyze a heart disease dataset. 
 •	To identify the input features and target variable. 
